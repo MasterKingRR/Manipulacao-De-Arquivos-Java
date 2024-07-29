@@ -1,0 +1,2 @@
+monitor;250;1
+mouse;50;7
